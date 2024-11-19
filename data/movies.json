@@ -1,0 +1,5 @@
+[
+    { "title": "Inception", "genre": "Sci-Fi", "releaseDate": "2010-07-16" },
+    { "title": "The Dark Knight", "genre": "Action", "releaseDate": "2008-07-18" },
+    { "title": "Interstellar", "genre": "Sci-Fi", "releaseDate": "2014-11-07" }
+]
