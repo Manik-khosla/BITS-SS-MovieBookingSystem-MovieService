@@ -9,7 +9,10 @@ const movieRoutes = require('./routes/movies');
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(cors({
+    origin: true,
+    credentials: true,
+  }));
 app.use(bodyParser.json());
 
 // Routes
